@@ -3,6 +3,8 @@ PHP demo code and instructions for the brown bag.
 
 Please see the instructions below to ensure you have the prerequisites for the interactive demos.
 
+**Please check back later for more/better instructions**
+
 ## Setup
 ### XAMPP
 1. Install [XAMPP](https://www.apachefriends.org/download.html) on your computer
