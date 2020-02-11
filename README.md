@@ -11,7 +11,7 @@ XAMPP is cross-platform and includes all the components to host a PHP web site o
 2. Run XAMPP as administrator (otherwise watch out for permission prompts every time you want to start/stop a service)
 3. Change the ports Apache uses (change http 80 to 8080 (or whatever you like, hereafter referred to as PORT) and https 443 to 44380 (again, whatever. We won't use this though, Windows just doesn't like you using the default ports))
 	- In XAMPP control panel, click the Config button to the right of Apache and select Apache (httpd.conf)
-	- Change `Listen 80` to Listen `Listen 8080` (or your preferred PORT)
+	- Change `Listen 80` to `Listen 8080` (or your preferred PORT)
 	- Change `Listen 443` to `Listen 44380`  (or your preferred port)
 4. Navigate to the htdocs folder (C:\xampp\htdocs)
 5. Inside htdocs clone this repo:
