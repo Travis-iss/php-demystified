@@ -36,3 +36,8 @@ This example includes a PHP function. The output of the function is used to add 
 This example includes a class with attributes and methods to model a user. It also includes a foreach loop and appending to an array.
 1. Navigate to localhost:{PORT}/php-demystified/example.php
 2. To change the name displayed on the page, add a first name and a last name to the input boxes and select Submit.
+
+### Some Silly PHP Stuff That's Probably Bad Practice (silly.php)
+There's no HTML in this file, and there doesn't need to be HTML in a PHP file! You can run this from the command line to see the output.
+1. Open a Command Prompt inside the php-demystified folder
+2. Run `php silly.php` to see the output. (This is more about the code than the output but the output shows that it works.)
