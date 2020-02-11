@@ -15,6 +15,11 @@
 
 <html lang='en'>
 	<head title='Simple PHP Example'>
+		<style>
+			body {
+					font-family: sans-serif;
+				}
+		</style>
 	</head>
 	<body>
 		<?php 
